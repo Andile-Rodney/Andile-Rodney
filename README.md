@@ -1,7 +1,7 @@
  Hi there 👋🏿, Welcome...
  
  - Vegan | Sustainability(even in Tech) | Slow living | Minimalism | Japandi | Solo Traveler | Nomad |
- - Currently doing Bsc. Computer Science with IUBH.
+ - Currently doing Bsc. Computer Science at IUBH.
  
  ## Qualifications
  - Comptia A+, Comptia N+, 2013
