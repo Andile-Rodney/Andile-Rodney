@@ -4,9 +4,9 @@
  - Currently doing Bsc. Computer Science with IUBH.
  
  ## Qualifications
- - A+, N+ - 2013
- - Cisco Certified Network Associate - 2014
- - MSCE - 2015
+ - Comptia A+, Comptia N+, 2013
+ - Cisco Certified Network Associate, 2014
+ - MSCE, 2015
 
 
 
