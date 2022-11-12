@@ -1,5 +1,5 @@
  Hi there 👋🏿, Welcome...
- - Rodney Zhou
+ 
  - Vegan | Sustainability(even in Tech) | Slow living | Minimalism | Japandi | Solo Traveler | Nomad |
  - Currently doing Bsc. Computer Science with IUBH.
  
