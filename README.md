@@ -3,7 +3,7 @@
  - Vegan | Sustainability(even in Tech) | Slow living | Minimalism | Japandi | Solo Traveler | Nomad |
  - Currently doing Bsc. Computer Science with IUBH.
  
- #Qualifications
+ ## Qualifications
  - A+, N+ - 2013
  - Cisco Certified Network Associate - 2014
  - MSCE - 2015
