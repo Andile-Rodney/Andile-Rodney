@@ -1,7 +1,9 @@
  Hi there 👋🏿, Welcome...
  
- - Vegan | Sustainability(even in Tech) | Slow living | Minimalism | Japandi | Solo Traveler | Nomad |
- - Currently doing Bsc. Computer Science at IUBH.
+ - Vegan | Sustainability | Slow living | Minimalism | Japandi | Solo Traveler | Nomad |
+ - 🌱 Currently doing Bsc. Computer Science at IUBH.
+ - 💬 Lets chat about sustainability(even in Tech), anything tech.
+ - ⚡ Fun fact: Constipation kills.
  
  ## Qualifications
  - Comptia A+, Comptia N+, 2013
