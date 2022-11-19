@@ -11,6 +11,9 @@
  - MSCE, 2015
 
 
+#Author Info
+- @dev_vegan
+
 
 <!--
 **Andile-Rodney/Andile-Rodney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
