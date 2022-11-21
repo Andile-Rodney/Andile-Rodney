@@ -9,6 +9,13 @@
  - Comptia A+, Comptia N+, 2013
  - Cisco Certified Network Associate, 2014
  - MSCE, 2015
+ - ITBSQ, 2017
+
+//## Languages
+//Python, Java, C#, iOS, SQL, 
+
+## Skills
+APIs, Automation Testing, Data Analysis, ETL, MVC methodology, ASP.NET (MVC), Entity Framework, C#, SQL, HTML, JQuery, AJAX ,CSS, JavaScript
 
 
 #Author Info
