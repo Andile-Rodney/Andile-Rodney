@@ -11,11 +11,9 @@
  - MSCE, 2015
  - ITBSQ, 2017
 
-//## Languages
-//Python, Java, C#, iOS, SQL, 
 
 ## Skills
-APIs, Automation Testing, Data Analysis, ETL, MVC methodology, ASP.NET (MVC), Entity Framework, C#, SQL, HTML, JQuery, AJAX ,CSS, JavaScript
+Python, Java, C#, iOS, SQL, ASP.NET (MVC), Entity Framework, HTML, React, CSS, TypeScript, APIs, Automation Testing, Data Analysis, ETL. 
 
 
 #Author Info
