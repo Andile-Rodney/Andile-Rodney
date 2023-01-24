@@ -13,7 +13,7 @@
 
 
 ## Skills
-Python, Java, C#, iOS, SQL, ASP.NET (MVC), Entity Framework, HTML, React, CSS, TypeScript, APIs, Automation Testing, Data Analysis, ETL. 
+Java, Python, SQL, HTML, APIs, Automation Testing, Data Analysis, ETL. 
 
 
 #Author Info
