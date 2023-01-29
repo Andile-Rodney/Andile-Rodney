@@ -13,7 +13,7 @@
 
 
 ## Skills
-Java, Python, SQL, HTML, APIs, Automation Testing, Data Analysis, ETL. 
+Java, SQL, HTML, APIs, Automation Testing, Data Analysis, ETL. 
 
 
 #Author Info
