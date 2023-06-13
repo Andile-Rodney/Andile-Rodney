@@ -6,10 +6,10 @@
  - ⚡ Fun fact: Constipation kills.
  
  ## Qualifications
- - Comptia A+, Comptia N+, 2013
- - Cisco Certified Network Associate, 2014
- - MSCE, 2015
- - ITBSQ, 2017
+ - Comptia A+, Comptia N+, 
+ - CCNA, 
+ - MSCE, 
+ - ISTBQ, 
 
 
 ## Skills
