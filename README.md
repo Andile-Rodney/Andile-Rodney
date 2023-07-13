@@ -9,11 +9,12 @@
  - Comptia A+, Comptia N+, 
  - CCNA, 
  - MSCE, 
- - ISTBQ, 
+ - ISTBQ,
+ - ITILv4(pending)
 
 
 ## Skills
-Java, Spring Boot, ,Python, SQL, HTML, APIs, Automation Testing, Tooling, Data Analysis, ETL. 
+Java, Python, TypeScript,Spring Boot, SQL, HTML, APIs, Automation Testing, Tooling, Data Analysis, ETL. 
 
 
 #Author Info
