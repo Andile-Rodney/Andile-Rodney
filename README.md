@@ -9,8 +9,7 @@
  - Comptia A+, Comptia N+, 
  - CCNA, 
  - MSCE, 
- - ISTBQ,
- - ITILv4(pending)
+ - ISTBQ
 
 
 ## Skills
