@@ -15,6 +15,9 @@
 ## Skills
 Java, Python, TypeScript,Spring Boot, SQL, HTML, APIs, Automation Testing, Tooling, Data Analysis, ETL. 
 
+## Roadmap Tracker
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b3927e9a1017508d218d88?variant=dark)](https://roadmap.sh)
+
 
 #Author Info
 - @dev_vegan
