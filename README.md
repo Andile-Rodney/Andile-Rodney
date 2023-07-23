@@ -15,8 +15,6 @@
 ## Skills
 Java, Python, TypeScript,Spring Boot, Angular, SQL, HTML, APIs, Automation Testing, Tooling, Data Analysis, ETL. 
 
-## Roadmap Tracker
-[[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b3927e9a1017508d218d88?variant=dark)](https://roadmap.sh)](https://api.roadmap.sh/v1-badge/tall/64b3927e9a1017508d218d88?variant=dark&roadmaps=sql%2Cjava%2Ctypescript%2Cbackend)
 
 
 #Author Info
