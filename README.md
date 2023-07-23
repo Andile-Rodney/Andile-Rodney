@@ -13,7 +13,7 @@
 
 
 ## Skills
-Java, Python, TypeScript,Spring Boot, Angular, SQL, HTML, APIs, Automation Testing, Tooling, Data Analysis, ETL. 
+Java, Python, TypeScript, Spring Boot, Angular, SQL, HTML, APIs, QA Testing, ETL. 
 
 
 
