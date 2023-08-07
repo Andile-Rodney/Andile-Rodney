@@ -1,7 +1,7 @@
  Hi there 👋🏿, Welcome...
  
  - Vegan | Sustainability | Slow living | Minimalism | Japandi | Solo Traveler | Nomad |
- - 🌱 Currently crushing 1st year of my Bsc. Computer Science at IUBH.
+ - 🌱 Currently studying my Bsc. Computer Science.
  - 💬 Lets chat about neuro-science, as creatures of habit, we are all here just winging it...
  - ⚡ Fun fact: Constipation kills.
  
