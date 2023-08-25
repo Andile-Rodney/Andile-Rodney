@@ -9,8 +9,8 @@
  - Comptia A+, Comptia N+, 
  - CCNA, 
  - MSCE, 
- - ISTBQ
- - ITIL
+ - ISTBQ,
+ - ITIL.
 
 
 ## Skills
