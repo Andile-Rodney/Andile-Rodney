@@ -20,6 +20,7 @@ Java, TypeScript, Spring Boot, Angular, SQL, APIs, QA Manual Testing, ETL. ITIL.
 
 #Author Info
 - @dev_vegan
+- rodneymthunzi@gmail.com
 
 
 <!--
