@@ -19,7 +19,6 @@ Java, TypeScript, Javascript, Spring Boot, Angular, SQL, APIs, QA Manual Testing
 
 
 #Author Info
-- @dev_vegan
 - rodneymthunzi@gmail.com
 
 
