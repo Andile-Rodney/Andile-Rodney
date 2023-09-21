@@ -8,7 +8,7 @@
  ## Qualifications
  - Comptia A+, Comptia N+, 
  - CCNA, 
- - MSCE, 
+ - MS AZURE, 
  - ISTBQ,
  - ITIL.
 
