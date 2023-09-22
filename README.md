@@ -6,11 +6,12 @@
  - ⚡ Fun fact: Constipation kills.
  
  ## Qualifications
- - Comptia A+, Comptia N+, 
+ - Comptia,
  - CCNA, 
  - MS AZURE, 
  - ISTBQ,
- - ITIL.
+ - ITIL,
+ - Cloud
 
 
 ## Skills
