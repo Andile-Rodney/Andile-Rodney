@@ -12,6 +12,7 @@
  - ISTBQ,
  - ITIL,
  - Cloud
+ - Java Certificate
 
 
 ## Skills
