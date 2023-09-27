@@ -13,6 +13,7 @@
  - ITIL,
  - Cloud
  - Java Certificate
+ - eec
 
 
 ## Skills
