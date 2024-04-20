@@ -23,6 +23,7 @@ Java, TypeScript, Javascript, Spring Boot, Angular, SQL, APIs, QA Manual/Automat
 
 #Author Info
 - rodneymthunzi@gmail.com
+- https://linktr.ee/roemthunzi
 
 
 <!--
