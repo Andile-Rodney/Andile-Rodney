@@ -2,7 +2,7 @@
  
  - Vegan | Sustainability | Slow living | Minimalism | Japandi | Solo Traveler | Nomad |
  - 🌱 Currently studying my Bsc. Computer Science.
- - 💬 Lets chat about science, how we all are creatures of habit, we are all here just winging it...
+ - 💬 Lets chat about science, we all are creatures of habit, we are all doing life for the first time...
  - ⚡ Fun fact: Constipation kills.
  
  ## Qualifications
