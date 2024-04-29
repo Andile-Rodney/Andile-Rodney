@@ -13,7 +13,7 @@
  - ITIL,
  - Cloud
  - Java Certificate
- - MEng, BSc CS.
+ - BSc CS.
 
 
 ## Skills
