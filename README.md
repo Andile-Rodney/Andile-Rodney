@@ -6,6 +6,7 @@
  - ⚡ Fun fact: Constipation kills.
  
  ## Qualifications
+ - BSc Computer Science
  - Comptia,
  - CCNA, 
  - MS AZURE, 
@@ -13,11 +14,11 @@
  - ITIL,
  - Cloud
  - Java Certificate
- - BSc CS.
+ 
 
 
 ## Skills
-Java, TypeScript, Javascript, Spring Boot, Angular, SQL, APIs, QA Manual/Automated Testing, ETL. ITIL, G programming. 
+Python, Java, TypeScript, Javascript, Spring Boot, Angular, SQL, APIs, QA Manual/Automated Testing, ETL. ITIL, G programming. 
 
 
 
