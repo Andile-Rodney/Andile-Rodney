@@ -9,7 +9,7 @@
  - BSc Computer Science
  - Comptia,
  - CCNA, 
- - MS AZURE, 
+ - AZURE Data, 
  - ISTBQ,
  - ITIL,
  - Cloud
