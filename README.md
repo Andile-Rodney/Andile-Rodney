@@ -1,9 +1,9 @@
- Hi there 👋🏿, Welcome to the simpleton...
- 
- - tech | data | math | vegan |
- - 🌱 Currently studying my Bsc. Computer Science.
- - 💬 Lets chat about science, we all are creatures of habit and doing life for the first time...
- - ⚡ Fun fact: Constipation kills.
+ hi there 👋🏿, welcome and thanks for checking me out...
+	
+	 - | tech | data | math | vegan |  
+ - 🌱 currently studying my Bsc. Computer Science.
+ - 💬 lets chat about science, we all are creatures of habit and doing life for the first time...
+ - ⚡ fun fact: constipation kills.
  
  ## Qualifications
  - BSc Computer Science
