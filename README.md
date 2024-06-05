@@ -1,19 +1,13 @@
  Hi there 👋🏿, Welcome to the simpleton...
  
- - Vegan | Sustainability | Slow living | Minimalism | Japandi | Solo Traveler | Nomad |
+ - tech | data | math | vegan |
  - 🌱 Currently studying my Bsc. Computer Science.
  - 💬 Lets chat about science, we all are creatures of habit and doing life for the first time...
  - ⚡ Fun fact: Constipation kills.
  
  ## Qualifications
  - BSc Computer Science
- - Comptia,
- - CCNA, 
- - AZURE Data, 
- - ISTBQ,
- - ITIL,
- - Cloud
- - Java Certificate
+ - Comptia,CCNA, AZURE Data, ITIL, Cloud
  
 
 
