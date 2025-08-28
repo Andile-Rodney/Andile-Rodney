@@ -19,6 +19,7 @@ Python, Java, TypeScript, Javascript, Spring Boot, Angular, SQL, APIs, QA Manual
 #Author Info
 - rodneymthunzi@gmail.com
 - https://linktr.ee/roemthunzi
+- https://www.linkedin.com/in/rodney-zhou/
 
 
 <!--
