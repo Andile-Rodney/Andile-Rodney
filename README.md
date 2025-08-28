@@ -2,7 +2,7 @@
 	
 	 - | tech | data | math | vegan |  
  - 🌱 currently studying my Bsc. Computer Science.
- - 💬 lets chat about science, we all are creatures of habit and doing life for the first time...
+ - 💬 we all are creatures of habit and doing life for the first time...
  - ⚡ fun fact: constipation kills.
  
  ## Qualifications
